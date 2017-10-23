@@ -1,0 +1,106 @@
+59340500017
+
+# cursor.execute(''' CREATE TABLE "1/2559" (Subject ID TEXT,Name subject TEXT, Credits TEXT, Academic regcord TEXT)''')
+# cursor.execute(''' CREATE TABLE "2/2559" (Subject ID TEXT,Name subject TEXT, Credits TEXT, Academic regcord TEXT)''')
+# cursor.execute(''' CREATE TABLE PROFILE (Name Student TEXT,
+                Dateofbirth TEXT, Brithplace TEXT, Nationality TEXT, Education TEXT,
+                Disease TEXT, Relative TEXT, PhoneforEmergency TEXT, Phonestudent TEXT, Address TEXT, Email TEXT)''')
+# cursor.execute('''CREATE TABLE ACTIVITY
+#                     (Name Activity TEXT, Description TEXT,
+#                      Photo TEXT, TYPE TEXT, Advisor TEXT, Date_Activity TEXT, File TEXT, Confirm NULL)''')
+
+# cursor.execute("""insert into "1/2559" values('FRA141', 'COMPUTER PROGRAMMING', '3', '4')""")
+# cursor.execute("""insert into "1/2559" values('FRA161', 'ROBOTICS EXPLORATION', '3', '4')""")
+# cursor.execute("""insert into "1/2559" values('GEN101', 'PHYSICAL EDUCATION', '1', '3.5')""")
+# cursor.execute("""insert into "1/2559" values('LNG101', 'GENERAL ENGLISH', '3', '3')""")
+# cursor.execute("""insert into "1/2559" values('MTH101', 'MATHEMATICS I', '3', '3.5')""")
+# cursor.execute("""insert into "1/2559" values('PHY103', 'GENERAL PHYSICS', '3', '3.5')""")
+# cursor.execute("""insert into "1/2559" values('PHY191', 'GENERAL PHYSICS LABORATORY I', '1', '2.5')""")
+
+# cursor.execute("""insert into "2/2559" values('FRA121', 'ELECTRONIC CIRCUITS', '3', '4')""")
+# cursor.execute("""insert into "2/2559" values('FRA142', 'COMPUTER PROGRAMMING', '3', '4')""")
+# cursor.execute("""insert into "2/2559" values('FRA162', 'ROBOTICS AND AUTOMATION', '1', '3.5')""")
+# cursor.execute("""insert into "2/2559" values('FRA163', 'ROBOTICS MACHINE SHOP', '1', '3')""")
+# cursor.execute("""insert into "2/2559" values('GEN111', 'MAN AND ETHICS OF LIVING', '3', '3.5')""")
+# cursor.execute("""insert into "2/2559" values('GEN121', 'LEARNING AND PROBLEM SOLVING SKILLS', '3', '3.5')""")
+# cursor.execute("""insert into "2/2559" values('MTH102', 'MATHEMATICS II', '3', '2.5')""")
+
+# cursor.execute("""insert into PROFILE values('Natthaphon', '27/08/40', 'thailand', 'thai',
+# 'Bachelor', 'None', 'Mother', '088-1234567', '094-1234567', 'Bangkok', 'million@gmail.com')""")
+
+# cursor.execute("INSERT INTO ACTIVITY values('Natthaphon', 'this is so fun.', 'Mill.jpg','Dynamics', 'Prof.Ton', '14/12/60', 'file of the Dynamic','comfirm')")
+
+# conne.commit()
+
+
+59340500021
+
+# cursor.execute(''' CREATE TABLE "1/2559" (Subject ID TEXT,Name subject TEXT, Credits TEXT, Academic regcord TEXT)''')
+# cursor.execute(''' CREATE TABLE "2/2559" (Subject ID TEXT,Name subject TEXT, Credits TEXT, Academic regcord TEXT)''')
+# cursor.execute(''' CREATE TABLE PROFILE (Name Student TEXT,
+                Dateofbirth TEXT, Brithplace TEXT, Nationality TEXT, Education TEXT,
+                Disease TEXT, Relative TEXT, PhoneforEmergency TEXT, Phonestudent TEXT, Address TEXT, Email TEXT)''')
+# cursor.execute('''CREATE TABLE ACTIVITY
+#                     (Name Activity TEXT, Description TEXT,
+#                      Photo TEXT, TYPE TEXT, Advisor TEXT, Date_Activity TEXT, File TEXT, Confirm NULL)''')
+
+
+# cursor.execute("""insert into "1/2559" values('FRA141', 'COMPUTER PROGRAMMING', '3', '3.5')""")
+# cursor.execute("""insert into "1/2559" values('FRA161', 'ROBOTICS EXPLORATION', '3', '4')""")
+# cursor.execute("""insert into "1/2559" values('GEN101', 'PHYSICAL EDUCATION', '1', '3.5')""")
+# cursor.execute("""insert into "1/2559" values('LNG101', 'GENERAL ENGLISH', '3', '3')""")
+# cursor.execute("""insert into "1/2559" values('MTH101', 'MATHEMATICS I', '3', '4')""")
+# cursor.execute("""insert into "1/2559" values('PHY103', 'GENERAL PHYSICS', '3', '3.5')""")
+# cursor.execute("""insert into "1/2559" values('PHY191', 'GENERAL PHYSICS LABORATORY I', '1', '3')""")
+
+# cursor.execute("""insert into "2/2559" values('FRA121', 'ELECTRONIC CIRCUITS', '3', '4')""")
+# cursor.execute("""insert into "2/2559" values('FRA142', 'COMPUTER PROGRAMMING', '3', '4')""")
+# cursor.execute("""insert into "2/2559" values('FRA162', 'ROBOTICS AND AUTOMATION', '1', '3.5')""")
+# cursor.execute("""insert into "2/2559" values('FRA163', 'ROBOTICS MACHINE SHOP', '1', '3')""")
+# cursor.execute("""insert into "2/2559" values('GEN111', 'MAN AND ETHICS OF LIVING', '3', '4')""")
+# cursor.execute("""insert into "2/2559" values('GEN121', 'LEARNING AND PROBLEM SOLVING SKILLS', '3', '4')""")
+# cursor.execute("""insert into "2/2559" values('MTH102', 'MATHEMATICS II', '3', '3.5')""")
+
+# cursor.execute("""insert into PROFILE values('Thipawan', '14/02/40', 'thailand', 'thai',
+# 'Bachelor', 'None', 'Father', '086-2690207', '094-1292494',  'Bangkok', 'thipa@gmail.com')""")
+
+# cursor.execute("INSERT INTO ACTIVITY values('Thipawan', 'Receive a lot of knoledges.', 'Pair.jpg','calculas', 'Prof.Somran', '15/12/60', 'file of the Calculas','comfirm')")
+
+# conne.commit()
+
+
+
+
+59340500035
+
+# cursor.execute(''' CREATE TABLE "1/2559" (Subject ID TEXT,Name subject TEXT, Credits TEXT, Academic regcord TEXT)''')
+# cursor.execute(''' CREATE TABLE "2/2559" (Subject ID TEXT,Name subject TEXT, Credits TEXT, Academic regcord TEXT)''')
+# cursor.execute(''' CREATE TABLE PROFILE (Name Student TEXT,
+                Dateofbirth TEXT, Brithplace TEXT, Nationality TEXT, Education TEXT,
+                Disease TEXT, Relative TEXT, PhoneforEmergency TEXT, Phonestudent TEXT, Address TEXT, Email TEXT)''')
+# cursor.execute('''CREATE TABLE ACTIVITY
+#                     (Name Activity TEXT, Description TEXT,
+#                      Photo TEXT, TYPE TEXT, Advisor TEXT, Date_Activity TEXT, File TEXT, Confirm NULL)''')
+
+# cursor.execute("""insert into "1/2559" values('FRA141', 'COMPUTER PROGRAMMING', '3', '4')""")
+# cursor.execute("""insert into "1/2559" values('FRA161', 'ROBOTICS EXPLORATION', '3', '3')""")
+# cursor.execute("""insert into "1/2559" values('GEN101', 'PHYSICAL EDUCATION', '1', '3.5')""")
+# cursor.execute("""insert into "1/2559" values('LNG101', 'GENERAL ENGLISH', '3', '3')""")
+# cursor.execute("""insert into "1/2559" values('MTH101', 'MATHEMATICS I', '3', '4')""")
+# cursor.execute("""insert into "1/2559" values('PHY103', 'GENERAL PHYSICS', '3', '3.5')""")
+# cursor.execute("""insert into "1/2559" values('PHY191', 'GENERAL PHYSICS LABORATORY I', '1', '4')""")
+
+# cursor.execute("""insert into "2/2559" values('FRA121', 'ELECTRONIC CIRCUITS', '3', '3.5')""")
+# cursor.execute("""insert into "2/2559" values('FRA142', 'COMPUTER PROGRAMMING', '3', '4')""")
+# cursor.execute("""insert into "2/2559" values('FRA162', 'ROBOTICS AND AUTOMATION', '1', '3.5')""")
+# cursor.execute("""insert into "2/2559" values('FRA163', 'ROBOTICS MACHINE SHOP', '1', '3')""")
+# cursor.execute("""insert into "2/2559" values('GEN111', 'MAN AND ETHICS OF LIVING', '3', '3.5')""")
+# cursor.execute("""insert into "2/2559" values('GEN121', 'LEARNING AND PROBLEM SOLVING SKILLS', '3', '2.5')""")
+# cursor.execute("""insert into "2/2559" values('MTH102', 'MATHEMATICS II', '3', '2')""")
+
+# cursor.execute("""insert into PROFILE values('Panchalee', '29/05/40', 'thailand', 'thai',
+# 'Bachelor', 'None', 'Mother', '099-7654321', '084-7654321',  'Bangkok', 'popperzz@gmail.com')""")
+
+# cursor.execute("INSERT INTO ACTIVITY values('Panchalee', 'It is will be useful.', 'Popperzz.jpg','Digital', 'Prof.Pi', '15/12/60', 'file of the Digital','comfirm')")
+
+# conne.commit()
