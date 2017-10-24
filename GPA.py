@@ -1,14 +1,13 @@
 import sqlite3
 from AcademicTable import AcademicTable
-conne = sqlite3.connect("Mil.db")
+A = "1/2559"
+B = 59340500017
+conne = sqlite3.connect(str(B) + ".db")
 cursor = conne.cursor()
-credit = []
-creditAcademic = []
-creditOfAcademic = []
-listSum = []
 
 def sum_credit():
-    cursor.execute('''SELECT Credits FROM ACADEMIC''')
+    credit = []
+    cursor.execute('''SELECT Credits FROM "{}"'''.format(A))
     for i in cursor:
         for j in i:
             credit.append(float(j))
@@ -16,8 +15,9 @@ def sum_credit():
     return sumCredit
 
 def credit_of_academic():
-    val = 1
-    cursor.execute('''SELECT Credits,Academic regcord FROM ACADEMIC''')
+    creditAcademic = []
+    listSum = []
+    cursor.execute('''SELECT Credits,Academic regcord FROM "{}"'''.format(A))
     for i in cursor:
         creditAcademic.append(i)
     for u in creditAcademic:
